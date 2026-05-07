@@ -768,13 +768,13 @@ do
     -- Note: execCmd functions depend on Infinite Yield's environment.
     pcall(function()
         execCmd("animation 93224413172183")
-        execCmd("maxzoom 200")
+        execCmd("maxzoom 1000")
     end)
  
     print("--- Script 1 Finished ---")
 end
 -- ============================
--- BIG POPUP: Join discord.gg/ErWCddDdGP For Bypassed Shirts
+-- BIG POPUP: Join discord.gg/BYPASSED For Bypassed Shirts
 -- ============================
  
 do
@@ -808,7 +808,7 @@ do
     label.Size = UDim2.new(1, -20, 1, -20)
     label.Position = UDim2.new(0, 10, 0, 10)
     label.BackgroundTransparency = 1
-    label.Text = "Join discord.gg/ErWCddDdGP For Bypassed Shirts"
+    label.Text = "Join discord.gg/BYPASSED For Bypassed Shirts"
     label.Font = Enum.Font.GothamBold
     label.TextSize = 32
     label.TextColor3 = Color3.new(1, 1, 1)
